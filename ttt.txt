@@ -7,3 +7,4 @@ test submit mode
 create branch dev
 update bug
 update a issue
+new create dev branch
