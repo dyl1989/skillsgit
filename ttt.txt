@@ -6,4 +6,4 @@ update
 test submit mode
 create branch dev
 update bug
-update a issue
+update a issue--update issue101 bug
